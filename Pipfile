@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pdpbox = "*"
+matplotlib = "==3.1.1"
+jupyterlab = "*"
+seaborn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
