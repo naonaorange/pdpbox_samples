@@ -1,6 +1,6 @@
 # pdpbox_samples
 
-This repository is sample program of pdpbox library.
+このレポジトリはPDPBoxのサンプルプログラム集です
 
 https://github.com/SauceCat/PDPbox
 
